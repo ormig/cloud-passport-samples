@@ -1,4 +1,5 @@
+!!org.qubership.colly.cloudpassport.envgen.EnvDefinition
 inventory:
-  environmentName: "env-test"
-  description: "some env for tests"
-  tenantName: "Applications"
+  description: hello world
+  environmentName: env-test
+  owner: roro
