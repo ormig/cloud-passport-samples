@@ -2,4 +2,4 @@
 inventory:
   description: hello world
   environmentName: env-test
-  owners: null
+  owners: roro
