@@ -1,5 +1,5 @@
 !!org.qubership.colly.cloudpassport.envgen.EnvDefinition
 inventory:
-  description: the best env ever
+  description: the best env ever!!!!!
   environmentName: env-test
-  owners: roro
+  owners: roro2
