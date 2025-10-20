@@ -2,7 +2,7 @@
 inventory:
   environmentName: "env-test"
   status: "ACTIVE"
-  description: "Updated description"
-  owners: "new-owner"
+  description: "the best env ever!!!!!"
+  owners: "roro2"
   tenantName: "Applications"
   team: "team-1"
