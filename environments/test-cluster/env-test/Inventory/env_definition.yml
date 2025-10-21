@@ -3,6 +3,6 @@ inventory:
   environmentName: "env-test"
   status: "ACTIVE"
   description: "the best env ever!!!!!"
-  owners: "roro2"
+  owners: "Some User"
   tenantName: "Applications"
   team: "team-1"
