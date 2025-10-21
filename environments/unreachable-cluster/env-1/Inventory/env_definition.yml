@@ -2,4 +2,4 @@ inventory:
   environmentName: "env-1"
   description: "some env for tests"
   tenantName: "Applications"
-  owners: Ro Ro Ro
+  owners: Roman Romanov
