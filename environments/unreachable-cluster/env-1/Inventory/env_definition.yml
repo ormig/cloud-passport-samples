@@ -2,4 +2,4 @@ inventory:
   environmentName: "env-1"
   description: "super env"
   tenantName: "Applications"
-  owners: Ivan Ivanov
+  owners: Ivan Ivanov 2
