@@ -1,5 +1,5 @@
 inventory:
   environmentName: "env-1"
-  description: "some env for tests"
+  description: "super env"
   tenantName: "Applications"
-  owners: Roman Romanov
+  owners: Ivan Ivanov
