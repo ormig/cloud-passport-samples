@@ -2,7 +2,7 @@
 inventory:
   environmentName: "env-test"
   status: "ACTIVE"
-  description: null
+  description: fff
   owners: "Roman Romanov 2"
   tenantName: "Applications"
   team: "team-1"
