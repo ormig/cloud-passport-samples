@@ -9,3 +9,4 @@ inventory:
     owners: Roman Romanov
     labels:
       - CI
+      - DEV
