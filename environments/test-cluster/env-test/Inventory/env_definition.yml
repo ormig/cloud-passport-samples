@@ -2,7 +2,9 @@
 inventory:
   environmentName: "env-test"
   status: "ACTIVE"
-  description: null
-  owners: null
   tenantName: "Applications"
   team: "team-1"
+  metadata:
+    description: null
+    owners: Roman Romanov
+    labels: []
