@@ -7,6 +7,4 @@ inventory:
   metadata:
     description: test
     owners: Roman Romanov
-    labels:
-      - CI
-      - DEV
+    labels: []
