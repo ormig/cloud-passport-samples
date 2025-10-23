@@ -5,6 +5,7 @@ inventory:
   tenantName: "Applications"
   team: "team-1"
   metadata:
-    description: null
+    description: test
     owners: Roman Romanov
-    labels: []
+    labels:
+      - CI
