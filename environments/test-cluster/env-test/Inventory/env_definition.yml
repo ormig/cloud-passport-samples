@@ -6,7 +6,7 @@ inventory:
   team: "team-1"
   metadata:
     description: test
-    owners: [Roman]
+    owners: [""]
     labels:
       - CI
       - DEV
