@@ -1,5 +1,8 @@
 inventory:
   environmentName: "env-1"
-  description: edejlk
   tenantName: "Applications"
-  owners: null
+  metadata:
+    description: edejlk
+    owners:
+      - roro
+    labels: []
