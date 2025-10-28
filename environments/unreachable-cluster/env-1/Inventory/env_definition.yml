@@ -6,3 +6,5 @@ inventory:
     owners:
       - ""
     labels: []
+    teams:
+      - QA
