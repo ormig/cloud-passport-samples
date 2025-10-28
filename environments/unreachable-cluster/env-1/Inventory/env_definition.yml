@@ -8,3 +8,4 @@ inventory:
     labels: []
     teams:
       - QA
+      - Dev
