@@ -14,5 +14,5 @@ inventory:
     teams:
       - my team
       - super team
-    status: IN_USE
+    status: RESERVED
     expirationDate: "2025-10-31"
