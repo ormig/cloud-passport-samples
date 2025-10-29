@@ -15,4 +15,4 @@ inventory:
       - my team
       - super team
     status: IN_USE
-    expirationDate: null
+    expirationDate: "2025-10-31"
