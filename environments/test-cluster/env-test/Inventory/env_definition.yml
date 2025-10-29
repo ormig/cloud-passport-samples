@@ -15,4 +15,4 @@ inventory:
       - my team
       - super team
     status: RESERVED
-    expirationDate: "2025-10-31"
+    expirationDate: null
