@@ -10,7 +10,7 @@ inventory:
     labels:
       - CI
       - DEV
-      - DDD
     teams:
       - ""
-    status: MIGRATING
+    status: IN_USE
+    expirationDate: "2025-10-31"
