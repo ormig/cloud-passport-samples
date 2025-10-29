@@ -12,5 +12,4 @@ inventory:
       - DEV
       - DDD
     teams:
-      - Roman Romanov
-      - ' Test Team'
+      - Test Team
