@@ -12,7 +12,5 @@ inventory:
       - DEV
       - DDD
     teams:
-      - my team
-      - super team
+      - ""
     status: MIGRATING
-    expirationDate: "2025-12-04"
