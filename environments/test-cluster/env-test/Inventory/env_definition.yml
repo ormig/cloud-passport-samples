@@ -11,6 +11,6 @@ inventory:
       - CI
       - DEV
     teams:
-      - ""
+      - jijij
     status: IN_USE
     expirationDate: "2025-10-31"
