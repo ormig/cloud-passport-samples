@@ -6,10 +6,12 @@ inventory:
   team: "team-1"
   metadata:
     description: test
-    owners: [dfgdf, dfgdfkkkkk]
+    owners: [""]
     labels:
       - CI
       - DEV
       - DDD
     teams:
       - jjjjjjj
+      - my team
+      - super team
