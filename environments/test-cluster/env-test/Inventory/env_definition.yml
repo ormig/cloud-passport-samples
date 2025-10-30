@@ -12,6 +12,6 @@ inventory:
       - DEV
     teams:
       - ""
-    status: IN_USE
+    status: MIGRATING
     expirationDate: "2025-10-31"
     type: ENVIRONMENT
