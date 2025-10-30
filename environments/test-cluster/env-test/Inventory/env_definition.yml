@@ -5,10 +5,6 @@ inventory:
   tenantName: "Applications"
   team: "team-1"
   metadata:
-    description: test
-    labels:
-      - CI
-      - DEV
     status: FREE
     expirationDate: "2025-10-31"
     type: ENVIRONMENT
