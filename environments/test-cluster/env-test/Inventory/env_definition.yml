@@ -11,7 +11,7 @@ inventory:
       - CI
       - DEV
     teams:
-      - roro
+      - ""
     status: IN_USE
     expirationDate: "2025-10-31"
     type: ENVIRONMENT
