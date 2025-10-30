@@ -12,6 +12,6 @@ inventory:
       - DEV
     teams:
       - ""
-    status: MIGRATING
+    status: RESERVED
     expirationDate: "2025-10-31"
     type: ENVIRONMENT
