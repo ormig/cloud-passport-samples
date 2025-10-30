@@ -14,3 +14,6 @@ inventory:
     status: RESERVED
     expirationDate: "2025-10-31"
     type: ENVIRONMENT
+    owners:
+      - Roman Romanov
+      - roro
