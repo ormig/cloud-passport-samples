@@ -5,7 +5,10 @@ inventory:
     description: edejlk
     owners:
       - ""
-    labels: []
+    labels:
+      - CI
     teams:
       - QA
       - Dev
+    status: FREE
+    type: ENVIRONMENT
