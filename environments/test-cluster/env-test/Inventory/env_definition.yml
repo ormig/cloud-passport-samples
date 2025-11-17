@@ -6,5 +6,5 @@ inventory:
   team: "team-1"
   metadata:
     status: FREE
-    expirationDate: "2025-10-31"
+    expirationDate: "2025-11-20"
     type: ENVIRONMENT
