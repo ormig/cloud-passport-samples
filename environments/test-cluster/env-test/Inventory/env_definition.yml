@@ -8,3 +8,5 @@ inventory:
     status: FREE
     expirationDate: "2025-11-20"
     type: ENVIRONMENT
+    owners:
+      - Roman ROmanov
