@@ -10,3 +10,4 @@ inventory:
     type: ENVIRONMENT
     owners:
       - Roman ROmanov
+    description: Updated by admin alice
