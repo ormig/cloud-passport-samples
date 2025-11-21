@@ -11,3 +11,5 @@ inventory:
     owners:
       - Roman ROmanov
     description: Updated by admin alice
+    teams:
+      - CI
