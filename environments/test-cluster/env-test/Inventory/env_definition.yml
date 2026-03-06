@@ -10,6 +10,6 @@ inventory:
     type: ENVIRONMENT
     owners:
       - Roman ROmanov
-    description: Updated environment description2
+    description: Updated environment description3
     teams:
       - CI
