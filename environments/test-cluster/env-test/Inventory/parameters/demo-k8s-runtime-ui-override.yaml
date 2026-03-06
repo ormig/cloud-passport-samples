@@ -1,0 +1,5 @@
+---
+name: "demo-k8s-runtime-ui-override"
+parameters:
+  testRuntimeParam: "testRUntimeValue"
+applications: []

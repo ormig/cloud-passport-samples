@@ -17,3 +17,8 @@ envTemplate:
   envSpecificParamsets:
     cloud:
       - deploy-ui-override
+    demo-k8s:
+      - demo-k8s-deploy-ui-override
+  envSpecificTechnicalParamsets:
+    demo-k8s:
+      - demo-k8s-runtime-ui-override
