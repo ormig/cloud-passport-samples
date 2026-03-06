@@ -9,7 +9,7 @@ inventory:
     expirationDate: "2025-11-20"
     type: ENVIRONMENT
     owners:
-      - Roman ROmanov2
+      - Roman ROmanov
     description: Updated by admin alice
     teams:
       - CI
