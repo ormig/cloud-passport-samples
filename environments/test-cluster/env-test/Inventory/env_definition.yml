@@ -13,3 +13,7 @@ inventory:
     description: Updated environment description3
     teams:
       - CI
+envTemplate:
+  envSpecificParamsets:
+    cloud:
+      - deploy-ui-override
