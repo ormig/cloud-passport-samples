@@ -2,9 +2,11 @@ inventory:
   environmentName: "env-1"
   tenantName: "Applications"
   metadata:
-    description: edejlk
+    description: Updated environment description5
     owners:
-      - ""
+      - john.doe@company.com
+      - jane.smith@company.com
+      - new.owner@company.com
     labels:
       - CI
     teams:
